@@ -13,16 +13,12 @@
 
            <!-- Box que contiene la descripción del grupo estudiantil -->
   <div id="nav-bar"></div>
-
-
-
-
       </br>
       </br>
-
             </br>
             </br>
-
+          </br>
+          </br>
                   </br>
                   </br>
     <img src="img/ilus1.png" >
@@ -57,10 +53,6 @@
     $("#quejas").load("quejas.php");
 
     $("#footer").load("shared/footer.php");
-
-
-
-
 </script>
 
 </html>
