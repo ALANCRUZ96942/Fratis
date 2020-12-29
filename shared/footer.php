@@ -6,7 +6,7 @@
         <h6>
 
         </h6>
-        <p> Todos los derechos reservados </p>
+        <p> Todos los derechos reservados Fratis</p>
     </div>
 </footer>
 <!-- Fin de footer -->

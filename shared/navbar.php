@@ -28,8 +28,8 @@
 
               </a>
 
-              <a class="navbar-item pl-5 pr-6 has-text-weight-bold" href="index.php#reporte" >
-                REPORTE
+              <a class="navbar-item pl-5 pr-6 has-text-weight-bold" href="tienda.php" >
+                TIENDA
             </a>
             <a class="navbar-item pl-5 pr-6 has-text-weight-bold" href="index.php#quejas" >
                 QUEJAS Y SUGERENCIAS
